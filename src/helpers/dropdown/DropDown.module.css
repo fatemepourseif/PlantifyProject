@@ -1,0 +1,19 @@
+.dropdownContainer select{
+    width: 200px;
+    height: 40px;
+    border-radius: 0;
+    border: 1px solid rgb(214, 214, 214);
+    padding: 5px;
+}
+.dropdownContainer select:focus{
+    border: 1px solid black;
+    border-radius: 0;
+}
+.dropdownContainer select option:checked{
+    background-color: rgb(38, 163, 221);
+    color: white;
+}
+.dropdownContainer select option:hover{
+    background-color: blue;
+    color: white;
+}

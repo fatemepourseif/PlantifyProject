@@ -1,0 +1,413 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "ALL PLANTS",
+      "image_url": "https://plantify.co.za/cdn/shop/products/DragonTreeBurley.jpg?v=1663851780&width=1800"
+    },
+    {
+      "id": 2,
+      "name": "POTS AND BASKETS",
+      "image_url": "https://plantify.co.za/cdn/shop/files/ShingPlinthPlanter-Black-withplants.jpg?v=1719555757&width=1800"
+    },
+    {
+      "id": 3,
+      "name": "PET FRIENDLY",
+      "image_url": "https://plantify.co.za/cdn/shop/products/ChineseMoneyPlant-12cm.jpg?v=1669201769&width=1800"
+    },
+    {
+      "id": 4,
+      "name": "EASY CARE PLANTS",
+      "image_url": "https://plantify.co.za/cdn/shop/files/DeliciousMonsterMiaMelangeJuteandLiquorice.jpg?v=1721833649&width=1800"
+    },
+    {
+      "id": 5,
+      "name": "HANDING PLANTS",
+      "image_url": "https://plantify.co.za/cdn/shop/products/PlantifyApril--33.jpg?v=1620832314&width=1800"
+    },
+    {
+      "id": 6,
+      "name": "XL Floor Standing Plants",
+      "image_url": "https://plantify.co.za/cdn/shop/files/9_4da8cbac-b7f0-4c20-8ff1-77fcf4e0ebb8.jpg?v=1697703586&width=1800"
+    },
+    {
+      "id": 7,
+      "name": "MOSSBALLS",
+      "image_url": "https://plantify.co.za/cdn/shop/files/PlantifyAPR23-27-Edit-Edit.jpg?v=1684926922&width=1800"
+    },
+    {
+      "id": 8,
+      "name": "HOMEWARE",
+      "image_url": "https://plantify.co.za/cdn/shop/files/265.png?v=1710929569&width=1800"
+    }
+  ],
+  "collections": [
+    {
+      "id": 50,
+      "name": "Birthday Blooms - Fine Art Print",
+      "price": "450.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/BirthdayBlooms-FineArtPrint-Framed.png?v=1726483528&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/BirthdayBlooms-FineArtPrint.png?v=1726483528&width=1800"
+    },
+    {
+      "id": 51,
+      "name": "End of Summer - Fine Art Print",
+      "price": "450.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/EndofSummer-FineartFramed.png?v=1726483554&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/EndofSummerFineArtPrint.png?v=1726483554&width=1800"
+    },
+    {
+      "id": 52,
+      "name": "Friends Like These - Fine Art Print",
+      "price": "260.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/FriendsLikeThese.png?v=1726483629&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/FriendsLikeThese-FineArtPrint.png?v=1726483629&width=1800"
+    },
+    {
+      "id": 53,
+      "name": "Garden Treasure - Fine Art Print",
+      "price": "450.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/GardenTreasure-FineArtPrint-Lifestyle.png?v=1726483671&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/GardenTreasureFineArtPrint-Framed2_2.png?v=1726483671&width=1800"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Broadleaf Lady Palm",
+      "price": "890.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/9_4da8cbac-b7f0-4c20-8ff1-77fcf4e0ebb8.jpg?v=1697703586&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/32_f80a8460-3c1d-4882-a47d-9fe60168cd78.jpg?v=1721291098&width=1800",
+      "category_id": 6
+    },
+    {
+      "id": 102,
+      "name": "Natal Mahogany - Large",
+      "price": "890.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/NatalMahoganyinTalalaBasket.jpg?v=1686301865&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/NatalMahogany30cm.jpg?v=1686301865&width=1800",
+      "category_id": 6
+    },
+    {
+      "id": 103,
+      "name": "Delicious Monster - EXTRA LARGE",
+      "price": "725.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Shopproductstemplate_26.png?v=1666688275&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Deliciousmonster41cm1200x1200.jpg?v=1666688275&width=1800",
+      "category_id": 6
+    },
+    {
+      "id": 104,
+      "name": "Dragon Tree - Americana",
+      "price": "865.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/DragonTreeAmericanaDracaenaAlchemyDragonTreeAlchemyfundobasketplantbasketgrassbasket.jpg?v=1630064953&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/DragonTreeAmericanaDracaenaAlchemyDragonTreeAlchemy.jpg?v=1630064953&width=1800",
+      "photos": [
+        "https://plantify.co.za/cdn/shop/products/DragonTree-AmericanaInMimiBasket.jpg?v=1630064965&width=1800",
+        "https://plantify.co.za/cdn/shop/products/DragonTreeAmericanaDracaenaAlchemyDragonTreeAlchemyfundobasketplantbasketgrassbasket.jpg?v=1630064953&width=1800",
+        "https://plantify.co.za/cdn/shop/products/DragonTreeAmericanaDracaenaAlchemyDragonTreeAlchemy.jpg?v=1630064953&width=1800"
+      ],
+      "category_id": 6
+    },
+    {
+      "id": 106,
+      "name": "Mother in Law's Tongue - Golden Future - EXTRA LARGE",
+      "price": "890.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/MotherinLaw_sTongue-GoldenFuture-32cminShishiBasket-35cm.jpg?v=1647779218&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/MotherinLaw_sTongue-Goldenfuture40cmin45cmFundoBasket.jpg?v=1647779224&width=1800",
+      "category_id": 6
+    },
+    {
+      "id": 107,
+      "name": "Ficus Longifolia",
+      "price": "1.350.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PlantifyApril.jpg?v=1620828866&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PlantifyApril--3.jpg?v=1620828867&width=1800",
+      "category_id": 6
+    },
+    {
+      "id": 108,
+      "name": "Peace Lily - Sensation - Large",
+      "price": "595.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/PeaceLilySensationExtraLarge-32cm_dce51753-4adf-4879-8799-fdb9efbcade4.jpg?v=1691568524&width=1800",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/PeaceLilySensationFoliage_9b848c31-c02e-4fba-8133-990851711172.jpg?v=1691568524&width=1800",
+      "photos": [
+        "https://plantify.co.za/cdn/shop/products/PeaceLilySensationExtraLarge-32cm.jpg?v=1688029772&width=1800",
+        "https://plantify.co.za/cdn/shop/products/PeaceLilySensation32cmIn35cmZuzuBasket.jpg?v=1688029776&width=1800",
+        "https://plantify.co.za/cdn/shop/products/PeaceLilySensationFoliage.jpg?v=1688029776&width=1800",
+        "https://plantify.co.za/cdn/shop/products/PeaceLilySensation-32cmIn35cmSinanBasket.jpg?v=1688029776&width=1800",
+        "https://plantify.co.za/cdn/shop/products/PeaceLilySensationExtraLargeinFundoBasket.jpg?v=1688029776&width=1800"
+      ],
+      "category_id": 6
+    },
+    {
+      "id": 109,
+      "name": "Shing Plinth Planter - Black",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterBlackwithAutumnFern.jpg?v=1719555757&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterBlackwithPhilodendronTortum_4b9a672f-78f5-470e-90bc-b8a8c9d5a3ce.jpg?v=1719555757&width=720",
+      "category_id": 2
+    },
+    {
+      "id": 110,
+      "name": "Shing Plinth Planter - Mustard Yellow",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterMustardwithFrostedHeartSyngonium.jpg?v=1686302563&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterMustardwithDeliciousMonster_b33e2750-0cf4-41f7-a3b2-edc4dd8b8a4e.jpg?v=1686302563&width=720",
+      "category_id": 2
+    },
+    {
+      "id": 111,
+      "name": "Shing Plinth Planter - Speckles",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterSpeckledandAlocasiaPolly.jpg?v=1686302660&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/HoyaPubicalyxinShingPlanterSpeckled_b24027b8-b4b4-4e94-aa7d-63d748484307.jpg?v=1686302660&width=540",
+      "category_id": 2
+    },
+    {
+      "id": 112,
+      "name": "Shing Plinth Planter - Blush",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/HoyaPubicalyxinShingPlinthPlanter-Blish-edit_36fe4989-4c8f-4ad5-87cc-20f62b8bdf8b.jpg?v=1719555952&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/ShingPlanterBlushandDeliciousMonster.jpg?v=1719555952&width=720",
+      "category_id": 2
+    },
+    {
+      "id": 113,
+      "name": "Shing Plinth Planter - Tricolor",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/shingtricolourwebimage.jpg?v=1697620938&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/shingtricolour1webimage.jpg?v=1697620938&width=540",
+      "category_id": 2
+    },
+    {
+      "id": 114,
+      "name": "Chinese Money Plant",
+      "price": "165.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/21_be0a8da3-f770-400a-95a0-bbcfed5633d5.jpg?v=1669200629&width=900",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/ChineseMoneyPlantinBlackMoonPlanterandWhiteMoonPlanter.jpg?v=1669201769&width=900",
+      "category_id": 3
+    },
+    {
+      "id": 115,
+      "name": "Polka Dot Plant",
+      "price": "65.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Shopproductstemplate_19.png?v=1666347103&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Shopproductstemplate_18.png?v=1666347086&width=720",
+      "category_id": 3
+    },
+    {
+      "id": 116,
+      "name": "Rafa Terrazzo - Choco",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/rafaterrazzopot1200.jpg?v=1697611677&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/rafaterrazzochocoandvanillawebimage.jpg?v=1697615566&width=720",
+      "photos": [
+        "https://plantify.co.za/cdn/shop/files/rafaterrazzopot1webimage.jpg?v=1697615564&width=1800",
+        "https://plantify.co.za/cdn/shop/files/rafaterrazzochocoandvanillawebimage.jpg?v=1697615566&width=1800",
+        "https://plantify.co.za/cdn/shop/files/rafaterrazzopot1200.jpg?v=1697611677&width=1800"
+      ],
+      "category_id": 2
+    },
+    {
+      "id": 117,
+      "name": "Prayer Plant",
+      "price": "510.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PrayerPlant12cminMoonPlanterPink13cm.jpg?v=1700146814&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PrayerPlantin13cmPinkMoonPlanter.jpg?v=1700146814&width=540",
+      "category_id": 3
+    },
+    {
+      "id": 118,
+      "name": "Love Palm",
+      "price": "105.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-1094-Edit.jpg?v=1620830389&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Plantify-876-Pano-Edit.jpg?v=1620830390&width=540",
+      "category_id": 3
+    },
+    {
+      "id": 119,
+      "name": "Delicious Monster",
+      "price": "185.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-383-Pano-Edit.jpg?v=1688119211&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/59.jpg?v=1688119211&width=540",
+      "category_id": 4
+    },
+    {
+      "id": 120,
+      "name": "Polka Dot Plant",
+      "price": "65.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Shopproductstemplate_19.png?v=1666347103&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Shopproductstemplate_20.png?v=1666347103&width=720",
+      "category_id": 4
+    },
+    {
+      "id": 121,
+      "name": "Arrowhead Plant - Neon",
+      "price": "195.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Arrowhead-neon1200x1200.jpg?v=1646750362&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/arrohead-neon3-1200x1200.jpg?v=1646750356&width=540",
+      "category_id": 4
+    },
+    {
+      "id": 122,
+      "name": "Philodendron Brasil Mossball",
+      "price": "395.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-31_2.jpg?v=1620832193&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-22_1.jpg?v=1620832194&width=540",
+      "category_id": 4
+    },
+    {
+      "id": 123,
+      "name": "Philodendron Selloum Mossball",
+      "price": "365.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-450-Pano-Edit.jpg?v=1620832211&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Plantify-744-Edit.jpg?v=1620832211&width=540",
+      "category_id": 4
+    },
+    {
+      "id": 124,
+      "name": "Yellowwood Tree",
+      "price": "325.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/WateringCanBlack_cc1485ec-3c7d-4c53-8249-b21112a66912.jpg?v=1677841298&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/WateringCanBlack_6_c4a7ce42-8fd2-4209-99e3-21a64d265301.jpg?v=1677841298&width=540",
+      "category_id": 4
+    },
+    {
+      "id": 125,
+      "name": "Raindrop Glass Hanging Planter",
+      "price": "215.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PlantifyApril--33.jpg?v=1620832314&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PlantifyApril--34.jpg?v=1720086779&width=540",
+      "category_id": 5
+    },
+    {
+      "id": 126,
+      "name": "Arrowhead Neon Mossball",
+      "price": "385.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-31_2.jpg?v=1620832193&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-22_1.jpg?v=1620832194&width=720",
+      "category_id": 5
+    },
+    {
+      "id": 126,
+      "name": "Philodendron Brasil Mossball",
+      "price": "395.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/2Shopproductstemplate_19.jpg?v=1685445977&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/2Shopproductstemplate_19.jpg?v=1685445977&width=540",
+      "category_id": 5
+    },
+    {
+      "id": 127,
+      "name": "Philodendron Selloum Mossball",
+      "price": "365.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-450-Pano-Edit.jpg?v=1620832211&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Plantify-744-Edit.jpg?v=1620832211&width=720",
+      "category_id": 5
+    },
+    {
+      "id": 128,
+      "name": "Philodendron Selloum Mossball",
+      "price": "365.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-450-Pano-Edit.jpg?v=1620832211&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Plantify-744-Edit.jpg?v=1620832211&width=720",
+      "category_id": 7
+    },
+    {
+      "id": 129,
+      "name": "Arrowhead Neon Mossball",
+      "price": "385.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-31_2.jpg?v=1620832193&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/PlantifyMarchWeb-22_1.jpg?v=1620832194&width=720",
+      "category_id": 7
+    },
+    {
+      "id": 130,
+      "name": "Philodendron Brasil Mossball",
+      "price": "395.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/2Shopproductstemplate_19.jpg?v=1685445977&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/2Shopproductstemplate_19.jpg?v=1685445977&width=540",
+      "category_id": 7
+    },
+    {
+      "id": 131,
+      "name": "Philodendron Selloum Mossball",
+      "price": "365.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/products/Plantify-450-Pano-Edit.jpg?v=1620832211&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/products/Plantify-744-Edit.jpg?v=1620832211&width=540",
+      "category_id": 7
+    },
+    {
+      "id": 132,
+      "name": "Scented Travel Candle",
+      "price": "165.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/BetaBeachcandle.png?v=1711451872&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/265.png?v=1710929569&width=540",
+      "category_id": 8
+    },
+    {
+      "id": 133,
+      "name": "Large 3-Wick Candle",
+      "price": "595.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/263.png?v=1710929518&width=720",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/262.png?v=1711437391&width=720",
+      "category_id": 8
+    },
+    {
+      "id": 134,
+      "name": "Room & Linen Spray",
+      "price": "175.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/277.png?v=1710934766&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/276.png?v=1710934766&width=540",
+      "category_id": 8
+    },
+    {
+      "id": 135,
+      "name": "Reed Diffuser",
+      "price": "465.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/271.png?v=1710933454&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/274.png?v=1710933454&width=540",
+      "category_id": 8
+    },
+    {
+      "id": 136,
+      "name": "Momo Candle Holders - Colours",
+      "price": "175.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/momoredlesssquat21200.jpg?v=1705410748&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/momogreens1200.jpg?v=1705410748&width=540",
+      "category_id": 8
+    },
+    {
+      "id": 137,
+      "name": "Bees Wax Candle",
+      "price": "100.00",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/beeswaxcandlesmini1200.jpg?v=1690205687&width=540",
+      "hoveredImg": "https://plantify.co.za/cdn/shop/files/shortbeeswaxcandlesfront1200.jpg?v=1690205687&width=540",
+      "category_id": 8
+    }
+  ],
+  "Services": [
+    {
+      "id": "s1",
+      "title": "CORPORATE GIFTING",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/Corporate_Gifting.jpg?v=1716975677&width=832",
+      "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_Product_Pages_-_Plant_Care_22_34cd06f9-651a-4141-af5b-32cbc350422f.png?v=1685538808",
+      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/Untitled_1_1024x1024.png?v=1660894264"
+    },
+    {
+      "id": "s2",
+      "title": "PLANT CONSULTS",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/Our_Services.jpg?v=1716975505&width=832",
+      "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/99.png?v=1660818000",
+      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_BLOG_-_Body_Stitched_Images_7_f94e56da-f1b1-4568-9594-7d6c32b6d387.png?v=1660818473",
+      "thirdImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/101.png?v=1660818269"
+    },
+    {
+      "id": "s3",
+      "title": "PLANT RENTALS",
+      "mainImg": "https://plantify.co.za/cdn/shop/files/Plant_Rentals.jpg?v=1716975609&width=832",
+      "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_Product_Pages_-_Plant_Care_20_68c7288c-2491-4025-9e7e-63de9bdab619.png?v=1685527312",
+      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/162.png?v=1685526342"
+    }
+  ]
+}

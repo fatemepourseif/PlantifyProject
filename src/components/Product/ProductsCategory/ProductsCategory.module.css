@@ -1,0 +1,39 @@
+.title {
+  text-align: center;
+  font-weight: 450;
+  font-size: 32px;
+}
+.categoryContainer {
+  margin-top: 80px;
+}
+.categoryContainer ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 95%;
+}
+@media (max-width: 900px) {
+  .categoryContainer ul {
+    grid-template-columns: repeat(
+      2,
+      1fr
+    );
+  }
+}
+@media (max-width: 500px) {
+  .categoryContainer ul {
+    grid-template-columns: repeat(
+      1,
+      1fr
+    );
+  }
+  .categoryContainer ul li img{
+    width: 300px;
+  }
+  .title{
+    font-size: 25px;
+  }
+}

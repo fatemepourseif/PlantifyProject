@@ -1,0 +1,39 @@
+.list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 0;
+  max-width: 95%;
+  margin-top: 20px;
+  overflow: hidden;
+}
+.list img {
+  width: 100%;
+}
+.list h3 {
+  font-size: 15px;
+  margin-top: 10px;
+}
+@media (max-width: 900px) {
+  .list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .galleryInfo {
+    width: 100%;
+    margin-left: 20px;
+  }
+}
+@media (max-width: 750px) {
+  .list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 500px) {
+  .list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .list li img {
+    width: 300px;
+  }
+}

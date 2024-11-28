@@ -1,0 +1,14 @@
+.heroContainer img {
+  width: 100%;
+}
+.heroImageNarrowPage {
+  display: none;
+}
+@media (max-width: 760px) {
+  .heroImage {
+    display: none;
+  }
+  .heroImageNarrowPage {
+    display: block;
+  }
+}

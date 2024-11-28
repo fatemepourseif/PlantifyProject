@@ -1,0 +1,32 @@
+.galleryInfo {
+  width: 83%;
+  margin-left: auto;
+}
+.galley {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+}
+.galley h3 {
+  margin-top: -10px;
+  font-size: 38px;
+  font-weight: 400;
+}
+.description {
+  text-align: left;
+}
+.description span {
+  color: #219c33;
+  margin-top: 10px;
+  font-weight: 550;
+}
+.featured{
+  width: 94%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.linkStyle{
+  text-decoration: none;
+  color: black;
+}

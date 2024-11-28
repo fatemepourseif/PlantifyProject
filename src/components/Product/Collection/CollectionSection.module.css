@@ -1,0 +1,31 @@
+.section{
+    text-align: center;
+    margin: 80px auto;
+}
+.sectionHeader h1{
+    font-weight: 450;
+}
+.sectionHeader button{
+    background-color: white;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 0;
+    padding: 10px 20px;
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: rgb(65, 65, 65);
+    cursor: pointer;
+}
+.sectionHeader button:hover{
+    border: 1px solid rgb(65, 65, 65);
+}
+.section ul{
+    margin-top: 50px!important;
+    margin: auto;
+}
+.section ul li p{
+    font-size: 12px;
+}
+.section ul li button{
+    bottom: 80px!important;
+    width: 65%!important;
+}

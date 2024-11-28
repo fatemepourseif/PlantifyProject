@@ -1,0 +1,40 @@
+.item {
+  position: relative;
+  cursor: pointer;
+}
+.item img {
+  width: 100%;
+  object-fit: cover;
+  transition: opacity 0.4s ease-in-out;
+}
+.item .hoverImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+.item:hover .hoverImage {
+  opacity: 1;
+}
+.item:hover img {
+  opacity: 0;
+}
+.btn {
+  opacity: 0;
+  position: absolute;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out;
+  width: 90%;
+  z-index: 10;
+}
+
+
+.item:hover .btn {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-10px);
+}
