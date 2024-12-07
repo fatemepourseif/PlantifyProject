@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  width: 93%;
+  margin: auto;
+  justify-content: space-between;
+  padding: 80px 0;
+  margin: 60px auto;
+  border-top: 1px solid rgb(224, 224, 224, 0.6);
+}
+.first {
+  background-color: rgb(245, 227, 230);
+  flex-direction: row-reverse;
+}
+.second {
+  background-color: rgb(228, 224, 224);
+}
+.first h3:last-child {
+  background-color: white;
+  padding: 8px 24px;
+  display: inline-block;
+}
+.second h3:last-child {
+  background-color: rgb(152, 187, 152);
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+}

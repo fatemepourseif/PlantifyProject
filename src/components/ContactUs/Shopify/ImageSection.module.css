@@ -1,0 +1,43 @@
+.container_part {
+  display: flex;
+  width: 98%;
+  justify-content: space-between;
+}
+
+.container_part img {
+  width: 350px;
+  height: 350px;
+}
+.container_part div {
+  margin: auto;
+  text-align: center;
+}
+.container_part div h3 {
+  font-weight: 450;
+  letter-spacing: 2px;
+}
+.container_part div h1 {
+  font-size: 28px;
+}
+.buttonContainer {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  margin: auto;
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.actionButton {
+  padding: 10px 20px;
+  font-size: 10px;
+  color: rgb(117, 117, 117);
+  letter-spacing: 4px;
+  border: 1px solid rgb(117, 117, 117);
+  cursor: pointer;
+  background-color: white;
+}
+.actionButton:hover {
+  border: 1px solid black;
+}

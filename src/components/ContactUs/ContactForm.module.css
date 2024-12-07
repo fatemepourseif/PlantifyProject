@@ -1,0 +1,50 @@
+.form {
+  width: 100%;
+  margin: 50px auto;
+}
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
+.controls .control {
+  width: 29rem;
+}
+.control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+}
+.control label {
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 450;
+  margin-bottom: 10px;
+}
+.control input {
+  height: 40px;
+  border-radius: 0;
+  border: 1px solid rgb(214, 214, 214);
+  padding: 0 10px;
+}
+.control textarea {
+  border: 1px solid rgb(214, 214, 214);
+  padding: 10px;
+  height: 150px;
+}
+
+.error {
+  color: #d02e2e;
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 450;
+}
+.control input.inputError {
+  border: 1px solid #d02e2e;
+  background-color: #fff6f6;
+}
+.control textarea.textareaError {
+  border: 1px solid #d02e2e;
+  background-color: #fff6f6;
+}

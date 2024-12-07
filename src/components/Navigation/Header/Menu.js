@@ -9,11 +9,17 @@ const Menu = (props) => {
     <ul className={menuClasses}>
       <li>SHOP</li>
       <li>
-        <Link to="/services" className={classes.link}>SERVICES</Link>{" "}
+        <Link to="/services" className={classes.link}>
+          SERVICES
+        </Link>{" "}
       </li>
       <Logo />
       <li>PLANT CARE</li>
-      <li>CONTACT</li>
+      <li>
+        <Link to="/contactUs" className={classes.link}>
+          CONTACT
+        </Link>
+      </li>
     </ul>
   );
 };

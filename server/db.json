@@ -390,24 +390,54 @@
     {
       "id": "s1",
       "title": "CORPORATE GIFTING",
+      "name": "Corporate Gifting",
       "mainImg": "https://plantify.co.za/cdn/shop/files/Corporate_Gifting.jpg?v=1716975677&width=832",
       "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_Product_Pages_-_Plant_Care_22_34cd06f9-651a-4141-af5b-32cbc350422f.png?v=1685538808",
-      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/Untitled_1_1024x1024.png?v=1660894264"
+      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/Untitled_1_1024x1024.png?v=1660894264",
+      "advertizing": "Looking to send desk drops to motivate your Colleagues? Want to send Gift Vouchers to the best performing Team? Keen to send Thank You Gifts to Clients? ",
+      "options":[
+        "We can match your Budget",
+        "You Can Add Your Business Identity",
+        "We’re quick!",
+        "Our Shipping is affordable and very efficient",
+        "Well researched, Free Care Instructions"
+      ],
+      "info":"Get in touch! Our Team will be happy to guide you in finding the perfect plants for your gifting needs. Like some of our prior trusted clients."
     },
     {
       "id": "s2",
       "title": "PLANT CONSULTS",
+      "name": "Home & Business Plant Consults",
       "mainImg": "https://plantify.co.za/cdn/shop/files/Our_Services.jpg?v=1716975505&width=832",
       "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/99.png?v=1660818000",
       "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_BLOG_-_Body_Stitched_Images_7_f94e56da-f1b1-4568-9594-7d6c32b6d387.png?v=1660818473",
-      "thirdImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/101.png?v=1660818269"
+      "thirdImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/101.png?v=1660818269",
+      "advertizing": "Plantify is on a mission to green South Africa's homes and businesses in a way that is fun, accessible and attuned to your lifestyle, care appetite and creativity. Count on us to deliver inspiring plant designs tailored to the needs and aesthetics of your restaurant, office, or home.",
+      "options":[
+        "In Store:",
+        "Top Tip:",
+        "Email Support:",
+        "Virtual Call:",
+        "In Person Visits:"
+      ],
+      "info":"Get in touch and let us know your needs. We Can't wait to support you in plantifying your spaces!"
     },
     {
       "id": "s3",
       "title": "PLANT RENTALS",
+      "name": "Plant Rental Cape Town",
       "mainImg": "https://plantify.co.za/cdn/shop/files/Plant_Rentals.jpg?v=1716975609&width=832",
       "firstImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/CURRENT_Product_Pages_-_Plant_Care_20_68c7288c-2491-4025-9e7e-63de9bdab619.png?v=1685527312",
-      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/162.png?v=1685526342"
+      "secondImg": "https://cdn.shopify.com/s/files/1/1595/2239/files/162.png?v=1685526342",
+      "advertizing":"Do you want to bring some greenery to the party? Is there a need for trendy indoor plants for an upcoming photo shoot? Want to give your trade show booth a facelift?",
+      "options":[
+        "Film Sets",
+        "Conferencing",
+        "Stock Photography shoots",
+        "Church, School Events",
+        "Parties"
+      ],
+      "info":"Whether you need a plant for a day, a weekend, or longer in Cape Town, we can help you find the right one for your event or production. Get in Touch, and let us know how we can help with indoor plant rentals."
     }
   ]
 }

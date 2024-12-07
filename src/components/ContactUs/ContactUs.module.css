@@ -1,0 +1,19 @@
+.contactContainer {
+  margin: 60px auto;
+  width: 70%;
+}
+
+.contactContainer h1 {
+  font-weight: 450;
+  text-align: center;
+}
+.phone,
+.address {
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+}
+.phone p,
+.address p {
+  line-height: 25px;
+}

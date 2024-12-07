@@ -1,6 +1,8 @@
 .item {
   position: relative;
   cursor: pointer;
+  overflow: hidden;
+  width: 100%;
 }
 .item img {
   width: 100%;
@@ -23,18 +25,27 @@
   opacity: 0;
 }
 .btn {
-  opacity: 0;
   position: absolute;
-  bottom: 100px;
+  bottom: 35%; /* Starting point */
   left: 50%;
-  transform: translateX(-50%);
-  transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out;
-  width: 90%;
+  transform: translateX(-50%) translateY(20px); /* Start slightly below */
+  width: 70%; /* Ensure consistent width */
   z-index: 10;
+  opacity: 0; /* Initially invisible */
+  transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out; /* Combine transitions */
 }
-
 
 .item:hover .btn {
-  opacity: 1;
-  transform: translateX(-50%) translateY(-10px);
+  opacity: 1; /* Fully visible */
+  transform: translateX(-50%) translateY(-30px); /* Move upward */
 }
+/* .linkWrapper {
+  all: unset;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+} */

@@ -3,3 +3,20 @@ body {
   letter-spacing: 2px;
   margin: 0;
 }
+.linkWrapper {
+  all: unset;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+a.linkWrapper {
+  all: unset!important;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}

@@ -1,0 +1,9 @@
+.detailContainer{
+    display: flex;
+    margin-top: 50px;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+.infoContainer{
+    width: 38%;
+}

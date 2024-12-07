@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.photos {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.photos img {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+.selectedPhoto {
+  width: 60%;
+}
+.selectedPhoto img {
+  width: 650px;
+  height: 620px;
+}

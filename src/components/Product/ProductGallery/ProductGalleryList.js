@@ -1,19 +1,36 @@
+import { useState } from "react";
 import ProductGalleryItem from "./ProductGalleryItem";
 import classes from "./ProductGalleryList.module.css";
+import ProductItemDetail from "./ProductItemDetail";
 
 const ProductGalleryList = (props) => {
+  const [selectedProduct, setSelectedProduct] = useState(null);
+  const handleProductSelect = (product) => {
+    setSelectedProduct(product);
+  };
+
+  const handleBackToGallery = () => {
+    setSelectedProduct(null);
+  };
   return (
-    <ul className={classes.list}>
-      {props.products.map((product) => (
-        <ProductGalleryItem
-          src={product.mainImg}
-          hover={product.hoveredImg}
-          name={product.name}
-          price={product.price}
-          key={product.id}
+    <div>
+      {!selectedProduct ? (
+        <ul className={classes.list}>
+          {props.products.map((product) => (
+            <ProductGalleryItem
+              key={product.id}
+              onProductSelect={handleProductSelect}
+              product={product}
+            />
+          ))}
+        </ul>
+      ) : (
+        <ProductItemDetail
+          product={selectedProduct}
+          onBack={handleBackToGallery}
         />
-      ))}
-    </ul>
+      )}
+    </div>
   );
 };
 export default ProductGalleryList;

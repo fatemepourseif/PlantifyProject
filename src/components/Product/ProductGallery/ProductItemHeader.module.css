@@ -1,0 +1,19 @@
+.header p{
+    font-size: 11px;
+    letter-spacing: 1px;
+}
+.header h1{
+    font-weight: 450;
+    margin: 0 0 20px 0;
+    
+}
+.header h3{
+    font-weight: 450;
+    font-size: 14px;
+    margin: 0;
+}
+.header{
+    width: 100%!important;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    padding-bottom: 20px;
+}
